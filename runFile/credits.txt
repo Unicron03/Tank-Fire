@@ -1,0 +1,15 @@
+Assets UI :
+	- Blood _ Copyright 2011 by shimobayashi <http://opengameart.org/content/teqq-princess-image-materials> Color edit to look like explosion Copyright 2012 by 	  qubodup <http://opengameart.org/users/qubodup> License: CCBY3 or later <http://creativecommons.org/licenses/by/3.0/>
+
+
+Assets SFX :
+	- AIRYLUVS SONORES par ISAo https://airyluvs.com/
+	- Oiboo
+	- Some of the sounds in this project were created by ViRiX Dreamcore (David McKee) soundcloud.com/virix
+	- Little Robot Sound Factory : www.littlerobotsoundfactory.com
+
+---------------------------------------------
+
+Thank you to them for creating free assets for everyone. 
+It's thanks to their contribution that this game has a soul 
+and was able to be created.
